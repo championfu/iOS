@@ -508,6 +508,7 @@
 				221AFAD21DBAF5870036412F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		221AFAD31DBAF5870036412F /* Build configuration list for PBXNativeTarget "gitTestATests" */ = {
 			isa = XCConfigurationList;
@@ -516,6 +517,7 @@
 				221AFAD51DBAF5870036412F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		221AFAD61DBAF5870036412F /* Build configuration list for PBXNativeTarget "gitTestAUITests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +526,7 @@
 				221AFAD81DBAF5870036412F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

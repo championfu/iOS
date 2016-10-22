@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     self.navigationItem.title = @"helloworld";
-    self.view.backgroundColor = [UIColor orangeColor];
+    self.view.frame = CGRectMake(0,20,414,666);
     // Do any additional setup after loading the view, typically from a nib.
 }
 
